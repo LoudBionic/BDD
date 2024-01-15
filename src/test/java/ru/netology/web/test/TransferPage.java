@@ -1,8 +1,7 @@
-package ru.netology.web.page;
+package ru.netology.web.test;
 
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.SelenideElement;
-import ru.netology.web.data.DataHelper;
 
 import java.time.Duration;
 
